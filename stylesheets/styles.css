@@ -48,15 +48,27 @@ table {
 	float: right;
 }
 
+#nav-section-1 {
+	float: left;
+}
+
 li {
 	float: left;
 }
 
-a {
+.nav-tab {
 	display: block;
 	width: 6rem;
 	text-align: center;
+	text-decoration: none;
+	color: white;
+	height: 60px;
 }
+
+.nav-tab:hover {
+	background-color: #D74747;
+}
+
 
 div {
 	width: 100%;
