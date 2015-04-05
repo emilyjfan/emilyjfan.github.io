@@ -25,6 +25,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	font-family: 'Source Sans Pro', sans-serif;
 }
 ol, ul {
 	list-style: none;
@@ -47,15 +48,27 @@ table {
 	float: right;
 }
 
+#nav-section-1 {
+	float: left;
+}
+
 li {
 	float: left;
 }
 
-a {
+.nav-tab {
 	display: block;
 	width: 6rem;
 	text-align: center;
+	text-decoration: none;
+	color: white;
+	height: 60px;
 }
+
+.nav-tab:hover {
+	background-color: #D74747;
+}
+
 
 div {
 	width: 100%;
@@ -70,8 +83,15 @@ div {
 	float: right;
 }
 
+h1 {
+	text-align: center;
+	font-size: 2.5rem;
+
+}
+
 h2 {
 	text-align: center;
+	font-size: 2rem;
 }
 
 .section1 {
@@ -80,17 +100,17 @@ h2 {
 
 .about-me {
 	background: #F2EBBF;
-	height: 700px;
+	height: 650px;
 }
 
 .portfolio {
 	background: #F3B562;
-	height: 700px;
+	height: 650px;
 }
 
 .cv {
 	background: #8CBEB2;
-	height: 700px;
+	height: 650px;
 }
 
 .contact {
