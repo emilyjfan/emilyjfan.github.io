@@ -24,9 +24,4 @@ $(document).ready(function (){
     }, 2000);
   });
 
-  $("#nav-section-5").click(function (){
-    $('body').animate({
-      scrollTop: $("#section-5").offset().top
-    }, 2000);
-  });
 });
