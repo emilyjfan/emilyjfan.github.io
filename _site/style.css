@@ -29,7 +29,13 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #F06060;
+    color: white;
+
+}
+
+
+a.rails-girls-link {
+    text-decoration: underline;
 }
 
 h1,
@@ -55,7 +61,7 @@ hr.star-primary {
 
 hr.star-light:after,
 hr.star-primary:after {
-    content: "\f005";
+    /*content: "\f005";*/
     display: inline-block;
     position: relative;
     top: -.8em;
@@ -175,6 +181,10 @@ header .intro-text .skills {
 .navbar-default,
 .navbar-inverse {
     border: 0;
+}
+
+.navbar-brand {
+    padding-top: 0px;
 }
 
 section {
@@ -450,3 +460,4 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
