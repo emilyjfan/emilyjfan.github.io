@@ -395,6 +395,10 @@ footer .footer-below {
     outline: 0;
 }
 
+.portfolio-modal {
+
+}
+
 .portfolio-modal .modal-content {
     padding: 100px 0;
     min-height: 100%;
@@ -404,6 +408,8 @@ footer .footer-below {
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
+    overflow-y: auto;
+    max-height: 100%;
 }
 
 .portfolio-modal .modal-content h2 {
