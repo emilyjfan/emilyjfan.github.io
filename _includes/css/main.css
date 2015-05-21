@@ -23,7 +23,6 @@ a:active,
 a.active {
     outline: 0;
     color: white;
-
 }
 
 
@@ -400,3 +399,19 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 
+
+.modal-body h2 {
+    color: #{{ site.color.secondary-dark }};
+}
+
+.modal-body p {
+    color: #545454;
+}
+
+.modal-body a {
+    color: #545454;
+}
+
+.modal-body li {
+    color: #545454;
+}
