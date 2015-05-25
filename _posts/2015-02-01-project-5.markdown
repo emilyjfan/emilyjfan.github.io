@@ -5,7 +5,9 @@ modal-id: 5
 date: 2015-02-01
 img: tictactoe/tictactoe_cascade2.png
 project-date: April 2015
-technologies: Web Development
-description: https://github.com/emilyjfan/tictactoe <img class="img-responsive img-centered" src="img/portfolio/tictactoe/tictactoe_board.png"> <br> <img class="img-responsive img-centered" src="img/portfolio/tictactoe/tictactoe_cascade1.png"> <br>
+technologies: Javascript, JQuery
+github: https://github.com/emilyjfan/tictactoe
+summary: A tic tac toe game with a Solitaire-style animation when someone wins.
+description: <img class="img-responsive img-centered" src="img/portfolio/tictactoe/tictactoe_board.png"> <img class="img-responsive img-centered" src="img/portfolio/tictactoe/tictactoe_cascade1.png"> 
 
 ---

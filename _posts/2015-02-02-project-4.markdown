@@ -6,6 +6,7 @@ date: 2015-02-01
 img: seatyoself/seatyoself_reservation.png 
 project-date: May 2015
 technologies: Web Development
-description: https://github.com/emilyjfan/seatyourself
-
+github: https://github.com/emilyjfan/seatyourself
+summary: A restaurant reservation-booking applications that allows users to view restaurants, make reservations, and add their own restaurants. 
+description: 
 ---
