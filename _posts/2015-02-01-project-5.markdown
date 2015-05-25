@@ -1,0 +1,11 @@
+---
+title: Tic Tac Toe
+layout: default
+modal-id: 5
+date: 2015-02-01
+img: tictactoe/tictactoe_cascade2.png
+project-date: April 2015
+technologies: Web Development
+description: https://github.com/emilyjfan/tictactoe <img class="img-responsive img-centered" src="img/portfolio/tictactoe/tictactoe_board.png"> <br> <img class="img-responsive img-centered" src="img/portfolio/tictactoe/tictactoe_cascade1.png"> <br>
+
+---

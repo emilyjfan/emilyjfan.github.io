@@ -1,0 +1,11 @@
+---
+title: OKCouncillr
+layout: default
+modal-id: 2
+date: 2015-04-01
+img: okc/okc_landing.png
+project-date: April 2015
+technologies: Web Development
+description: https://github.com/CivicHaxx/ok_councillr <br> <img class="img-responsive img-centered" src="img/portfolio/okc/okc_items_show.png"> <br> <img class="img-responsive img-centered" src="img/portfolio/okc/okc_items_index.png"> <br> <img class="img-responsive img-centered" src="img/portfolio/okc/okc_councillors.png"> <br> <img class="img-responsive img-centered" src="img/portfolio/okc/okc_myvotes.png">  
+
+---

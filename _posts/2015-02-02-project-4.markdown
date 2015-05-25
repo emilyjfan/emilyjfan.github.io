@@ -1,0 +1,11 @@
+---
+title: Seat Yo'self
+layout: default
+modal-id: 4
+date: 2015-02-01
+img: seatyoself/seatyoself_reservation.png 
+project-date: May 2015
+technologies: Web Development
+description: https://github.com/emilyjfan/seatyourself
+
+---

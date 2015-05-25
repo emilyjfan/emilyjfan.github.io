@@ -1,0 +1,11 @@
+---
+title: TechToday
+layout: default
+modal-id: 1
+date: 2015-05-01
+img: techtoday/techtoday_title.png
+project-date: May 2015
+technologies: Web Development
+description: https://github.com/emilyjfan/tech-events-to <img class="img-responsive img-centered" src="img/portfolio/techtoday/techtoday_map.png"> test <img class="img-responsive img-centered" src="img/portfolio/techtoday/techtoday_list.png"> test
+
+---
