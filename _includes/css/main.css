@@ -360,6 +360,7 @@ footer .footer-below {
 
 .portfolio-modal .modal-content img {
     margin-bottom: 30px;
+    border:1px solid black; 
 }
 
 .portfolio-modal .modal-content .item-details {
