@@ -7,7 +7,7 @@ img: techtoday/techtoday_title.png
 project-date: May 2015
 technologies: HTML, CSS, Javascript, Ruby, Rails, Meetup.com API, Google Maps API, Bootstrap
 github: https://github.com/emilyjfan/tech-events-to
-summary: TechToday is a Rails application that displays today's tech events in Toronto using the Meetup.com API and the Google Maps API. View it live at <a class="underline-link" href="https://techtoday.herokuapp.com/" target="blank">https://techtoday.herokuapp.com/</a>. 
+summary: TechToday is a Rails application that displays today's tech events in Toronto using the Meetup.com API and the Google Maps API. It allows users to find tech meetups without dealing with the Meetup.com UI. View it live at <a class="underline-link" href="https://techtoday.herokuapp.com/" target="blank">https://techtoday.herokuapp.com/</a>. 
 description: Map markers are generated for all events that have venues <img class="img-responsive img-centered" src="img/portfolio/techtoday/techtoday_map.png"> A list displays basic event info & links to the Meetup.com event pages <img class="img-responsive img-centered" src="img/portfolio/techtoday/techtoday_list.png">
 
 ---
