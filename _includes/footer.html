@@ -1,18 +1,13 @@
     <!-- Footer -->
-    <footer class="text-center">
+    <footer id="contact" class="text-center">
         <div class="footer-above">
             <div class="container">
                 <div class="row">
                     <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.location }}</h3>
-                        <p>
-                            {% for adress in site.address %}
-                                {{ adress.line }} <br>
-		                    {% endfor %}
-                        </p>
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.social }}</h3>
+                        <p class="small-text">emilyjustinefan@gmail.com</p>
                         <ul class="list-inline">
                             {% for network in site.social %}
                             <li>
@@ -32,7 +27,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; {{ site.footer.copyright }} 20{{ site.time | date: '%y' }}
+                        <p class="small-text copyright">Copyright &copy; {{ site.footer.copyright }} 20{{ site.time | date: '%y' }}</p>                    
                     </div>
                 </div>
             </div>
