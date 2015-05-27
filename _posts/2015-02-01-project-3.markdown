@@ -7,7 +7,7 @@ img: crowdfunder/crowdfunder_projectshow.png
 project-date: February 2015
 technologies: HTML, CSS, Ruby, Rails, Javascript, AJAX, Bootstrap
 github: https://github.com/emilyjfan/crowdfunder
-summary: 
-description: <img class="img-responsive img-centered" src="img/portfolio/crowdfunder/crowdfunder_projectnew.png"> <br> <img class="img-responsive img-centered" src="img/portfolio/crowdfunder/crowdfunder_rewards.png"> <br> <img class="img-responsive img-centered" src="img/portfolio/crowdfunder/crowdfunder_modal.png"> <br> <img class="img-responsive img-centered" src="img/portfolio/crowdfunder/crowdfunder_profile.png"> <br>  
+summary: A Kickstart clone where users can create crowdfunded projects and project rewards. Users can also back projects, and view their own profile page to see a summary of projects they have created and backed.
+description: User form for creating projects<img class="img-responsive img-centered" src="img/portfolio/crowdfunder/crowdfunder_projectnew.png"> Form for adding rewards to projects <img class="img-responsive img-centered" src="img/portfolio/crowdfunder/crowdfunder_rewards.png"> Confirmation modal appears when backing a project <img class="img-responsive img-centered" src="img/portfolio/crowdfunder/crowdfunder_modal.png"> Profile page for user's owned and backed projects <img class="img-responsive img-centered" src="img/portfolio/crowdfunder/crowdfunder_profile.png"> 
 
 ---
