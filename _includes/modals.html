@@ -14,18 +14,14 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <br>
+                            <div class="small-text">
                             <p>{{post.summary}}</p>
-                            <ul class="list-inline  item-details">
-                                <li> Languages/Skills: {{ post.technologies }}
-                                </li>
-                                <li>
-                                    Live Site: <a href="{{post.livesite}}" target="blank">{{post.livesite}} </a>
-                                </li>
-                                <li>View Source: <a href="{{post.github}}" target="blank"> {{post.github}} </a>
-                                </li>
-                            </ul>
+                                <p>Languages/Skills: {{ post.technologies }}</p>
+                                <p>View Source: <a href="{{post.github}}" target="blank"> {{post.github}} 
+                                </a></p>
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
+                            </div>
                             <button type="button" class="btn btn-default" data-dismiss="modal"> <i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
