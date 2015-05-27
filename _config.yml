@@ -1,24 +1,22 @@
 # Site settings
 title: Emily J. Fan
 email: emilyjustinefan@gmail.com
-url: https://example.github.io
-description: "Emily's site on the world wide web!"
+url: https://emilyjfan.github.io
+description: "Emily Fan's site on the world wide web!"
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 545454  #80B3FF
-  secondary: 70E8CB  #FD6E8A
-  secondary-dark: 333333 #A2122F
+  primary: 545454
+  secondary: 70E8CB
+  secondary-dark: 333333
 
 # Footer settings
 footer:
   copyright: Emily J. Fan
-  # location: Location
-  social: Around the Web
-  # credits: Credits
+  social: Let's Connect!
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
