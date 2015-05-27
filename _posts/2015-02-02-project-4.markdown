@@ -7,6 +7,6 @@ img: seatyoself/seatyoself_reservation.png
 project-date: May 2015
 technologies: HTML, CSS, Ruby, Rails 
 github: https://github.com/emilyjfan/seatyourself
-summary: A restaurant reservation-booking applications that allows users to view restaurants, make reservations, and add their own restaurants. 
+summary: A restaurant reservation-booking application that allows users to view restaurants, make reservations, and add their own restaurants. 
 description: 
 ---
