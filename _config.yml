@@ -1,5 +1,5 @@
 # Site settings
-title: Emily J. Fan
+title: EMILY FAN
 email: emilyjustinefan@gmail.com
 url: https://emilyjfan.github.io
 description: "Emily Fan's site on the world wide web!"
@@ -9,14 +9,14 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 545454
-  secondary: 70E8CB
-  secondary-dark: 333333
+  peach: F2836B
+  grey: 7E827A
+  teal: 01A2A6
 
 # Footer settings
 footer:
-  copyright: Emily J. Fan
-  social: Let's Connect!
+  copyright: Emily Fan
+  social: CONNECT
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

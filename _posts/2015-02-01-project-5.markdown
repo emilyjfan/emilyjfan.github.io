@@ -1,5 +1,5 @@
 ---
-title: Tic Tac Toe
+title: TIC TAC TOE
 layout: default
 modal-id: 5
 date: 2015-02-01
@@ -8,6 +8,6 @@ project-date: April 2015
 technologies: Javascript, JQuery
 github: https://github.com/emilyjfan/tictactoe
 summary: A tic tac toe game with a Solitaire-style animation when someone wins.
-description: <img class="img-responsive img-centered" src="img/portfolio/tictactoe/tictactoe_board.png"> <img class="img-responsive img-centered" src="img/portfolio/tictactoe/tictactoe_cascade1.png"> 
+description: <img class="img-responsive img-centered" src="img/portfolio/tictactoe/tictactoe_board.png"> <img class="img-responsive img-centered" src="img/portfolio/tictactoe/tictactoe_cascade1.png">
 
 ---
