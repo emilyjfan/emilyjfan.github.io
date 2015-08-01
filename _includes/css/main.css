@@ -37,7 +37,7 @@ h4,
 h5,
 h6 {
     font-family: 'Josefin Sans', sans-serif;
-    padding: 15px 10px 10px 10px;
+    padding: 18px 10px 10px 10px;
     margin-top: 22px;
     margin-bottom: 22px;
 }
@@ -73,7 +73,7 @@ header .intro-text .name {
     font-weight: 400;
     background-color: black;
     display: inline-block;
-    padding: 15px 15px 7px 15px;
+    padding: 20px 15px 7px 15px;
 }
 
 header .intro-text .skills {
