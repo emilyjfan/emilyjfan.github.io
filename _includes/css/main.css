@@ -50,7 +50,7 @@ h6 {
 header {
     text-align: center;
     color: #{{ site.color.white }};
-    background-image: url("/img/lines.png");
+    background-image: url("/img/geo.png");
     background-size: 100%;
 }
 
@@ -178,7 +178,7 @@ header .intro-text .skills {
 }
 
 section {
-    background-image: url("/img/wood.png");
+    background-image: url("/img/lines.png");
     background-size: 100%;
 }
 
@@ -310,7 +310,7 @@ footer p {
 }
 
 footer .footer-above {
-    background-image: url("/img/geo.png");
+    background-image: url("/img/wood.png");
     background-size: 100%;
 }
 
