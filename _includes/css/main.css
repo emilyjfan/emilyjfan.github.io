@@ -200,7 +200,7 @@ section.success {
 
 .about-section {
     padding-top: 50px;
-    padding-bottom: 50px;
+    padding-bottom: 70px;
 }
 }
 
@@ -225,7 +225,7 @@ section.success {
 
 .portfolio-section {
     padding-top: 50px;
-    padding-bottom: 50px;
+    padding-bottom: 70px;
 }
 
 #portfolio {
@@ -254,6 +254,10 @@ h2#portfolio-title {
     #portfolio .portfolio-item {
         width: 45%;
     }
+
+    #portfolio .portfolio-item .portfolio-link .caption:hover {
+        opacity: 1;
+    }
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {
@@ -265,10 +269,6 @@ h2#portfolio-title {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-}
-
-#portfolio .portfolio-item .portfolio-link .caption:hover {
-    opacity: 1;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
