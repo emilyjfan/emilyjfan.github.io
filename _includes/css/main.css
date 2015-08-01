@@ -132,6 +132,42 @@ header .intro-text .skills {
     .header-top {
         margin-bottom: 25px;
     }
+
+    #portfolio .portfolio-item .portfolio-link .caption {
+        position: absolute;
+        width: 94%;
+        height: 100%;
+        opacity: 0;
+        background: black;
+        -webkit-transition: all ease .5s;
+        -moz-transition: all ease .5s;
+        transition: all ease .5s;
+    }
+
+    #portfolio .portfolio-item .portfolio-link .caption:hover {
+        opacity: 1;
+    }
+
+    #portfolio .portfolio-item .portfolio-link .caption .caption-content {
+        position: absolute;
+        top: 50%;
+        width: 100%;
+        height: 20px;
+        margin-top: -20px;
+        text-align: center;
+        font-size: 35px;
+        color: #fff;
+    }
+
+    #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
+        margin-top: -12px;
+    }
+
+    #portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
+    #portfolio .portfolio-item .portfolio-link .caption .caption-content h4 {
+        margin: 0;
+    }
+
 }
 
 .navbar {
@@ -231,41 +267,6 @@ h2#portfolio-title {
 #portfolio .portfolio-item {
     right: 2px;
     margin-bottom: 28px;
-}
-
-#portfolio .portfolio-item .portfolio-link .caption {
-    position: absolute;
-    width: 94%;
-    height: 100%;
-    opacity: 0;
-    background: black;
-    -webkit-transition: all ease .5s;
-    -moz-transition: all ease .5s;
-    transition: all ease .5s;
-}
-
-#portfolio .portfolio-item .portfolio-link .caption:hover {
-    opacity: 1;
-}
-
-#portfolio .portfolio-item .portfolio-link .caption .caption-content {
-    position: absolute;
-    top: 50%;
-    width: 100%;
-    height: 20px;
-    margin-top: -20px;
-    text-align: center;
-    font-size: 35px;
-    color: #fff;
-}
-
-#portfolio .portfolio-item .portfolio-link .caption .caption-content i {
-    margin-top: -12px;
-}
-
-#portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
-#portfolio .portfolio-item .portfolio-link .caption .caption-content h4 {
-    margin: 0;
 }
 
 #portfolio * {
