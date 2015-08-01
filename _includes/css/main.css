@@ -194,19 +194,35 @@ section h2 {
     padding-top: 50px;
     padding-bottom: 70px;
 }
-}
 
 #about-text {
-    margin-bottom: 30px;
+    background-color: black;
+    padding: 15px 0;
+    margin: 30px;
+    width: auto;
+
 }
 
 #about-text p {
-    margin: 10px 0px;
     color: #{{ site.color.white }};
-    background-color: black;
-    display: inline-block;
-    width: auto;
-    padding: 5px;
+    padding-top: 10px;
+}
+
+#emily-photo {
+    width: 100%;
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    #emily-photo {
+        margin-top: 70px;
+        padding-right: 10px;
+    }
+}
+
+@media (min-width: 1200px) {
+    #about-text p {
+        padding-top: 15px;
+    }
 }
 
 .crop {
