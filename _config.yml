@@ -1,33 +1,5 @@
-# Site settings
-title: EMILY FAN
-email: emilyjustinefan@gmail.com
-url: https://emilyjfan.github.io
-description: "Emily Fan's site on the world wide web!"
-
-# Contact form: comment the line below if you want to stick with the default PHP contact form
-contact: static
-
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  peach: F2836B
-  grey: 7E827A
-  teal: 01A2A6
-  white: DDDDDD
-
-# Footer settings
-footer:
-  copyright: Emily Fan
-  social: CONTACT
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/emilyjustinefan
-  - title: linkedin
-    url: https://ca.linkedin.com/in/emilyjustinefan
-  - title: github
-    url: http://github.com/emilyjfan
-
-# Build settings
-markdown: kramdown
-permalink: pretty
+title: Minimal theme
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
