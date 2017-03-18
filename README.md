@@ -1,1 +1,1 @@
-[emilyjfan.github.io](emilyjfan.github.io)
+emilyjfan.github.io
